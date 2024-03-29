@@ -1,0 +1,12 @@
+@import "text.css";
+
+body{
+    background-color:rebeccapurple
+
+}
+.deneme{
+    color:rgb(255, 157, 0)
+}
+.deneme.test{
+    color: blue;
+}
